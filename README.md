@@ -1,6 +1,10 @@
-frontend-nanodegree-arcade-game
-===============================
+To run this application, visit index.html. Everything should just work :)
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+To play the game, try to get your avatar across the screen to the top, using
+just the up, down, left and right buttons. If a bug hits you, you die! Oh no!
+If you get to the end, you win! Great job! Try to get to the end as many times
+as you can! 
 
-for self-checking their submission.
+Thanks for playing semifunctional frogger clone!
+
+READY PLAYER ONE
